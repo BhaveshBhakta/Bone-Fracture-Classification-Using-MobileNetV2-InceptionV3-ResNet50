@@ -1,4 +1,4 @@
-﻿# Bon Fracture Classification Using MobileNetV2,InceptionV3,ResNet50
+﻿# Bone Fracture Classification Using MobileNetV2,InceptionV3,ResNet50
 
 **Project Overview**
 Bone Fracture Classification Using Multiple CNN Architectures is a deep learning-based project aimed at identifying fractures in bone X-ray images. The project leverages Convolutional Neural Networks (CNNs) and pre-trained models like ResNet50, InceptionV3, and MobileNetV2 to classify images as fractured or not fractured. The dataset is preprocessed and augmented for training, ensuring improved accuracy and generalization.
